@@ -1,5 +1,0 @@
-(test
- (name test_A4)
- (libraries ounit2 A4) 
- (instrumentation
-  (backend bisect_ppx)))
